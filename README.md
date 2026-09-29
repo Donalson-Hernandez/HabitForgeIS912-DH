@@ -1,2 +1,5 @@
-# HabitForgeIS912
-Proyecto para la clase de Sistemas Expertos la despedida.
+# Proyecto Ejemplo
+
+1. Inventario
+2. Calculadora basica
+3. menu basico
